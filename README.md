@@ -4,3 +4,5 @@ simple keylogger for linux/ubuntu with email sending
 * This file will move the all files linux/ubuntu  /etc/ folder install the dependencies(python modules and linux postfix server) then start the keylogger and send all keystrokes on your email on your email in 300 ms.
 * Soon I will make everything in one file.
 
+![alt image](keylogger.png)
+
